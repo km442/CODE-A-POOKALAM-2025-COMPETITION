@@ -12,7 +12,7 @@
 [This pookalam design is a vibrant circular pattern created using geometric shapes and repeated symmetry. The inspiration comes from traditional Kerala Onam pookalams, which symbolize prosperity, unity, and cultural celebration. The design blends concentric circles, zigzag floral-like layers, and petals in warm shades of yellow, orange, green, and red. The approach was to use repeated geometric transformations and layering to achieve a colorful, festive look resembling a real flower arrangement]
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](pookalam-preview.png)
 *Add more images if you have multiple views or animations*
 
 ### Features
