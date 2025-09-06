@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - **Name:** [Keerthana Murali K P]
 - **Institution/Company:** [RIT Kottayam]
-- **GitHub:** [@your-username](https://github.com/km442)
+- **GitHub:** [@km442](https://github.com/km442)
 - **Programming Language Used:** [python joy]
 
 ## 🎨 My Pookalam
